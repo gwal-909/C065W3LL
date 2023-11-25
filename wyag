@@ -1,0 +1,4 @@
+#!/usr/bin/env pythoh3
+
+import libwyag
+libwyag.main()
